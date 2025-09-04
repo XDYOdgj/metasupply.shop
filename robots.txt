@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://metasupply.shop/sitemap.xml
